@@ -27,7 +27,7 @@ https://network-security-mlops-1.onrender.com/docs
 
 ### GitHub Repository
 
-https://github.com/YOUR_USERNAME/network-security-mlops
+https://github.com/sarvesh2099/network-security-mlops
 
 ---
 
