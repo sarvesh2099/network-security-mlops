@@ -11,7 +11,7 @@
 
 ## 🚀 Overview
 
-This project presents a production-oriented MLOps pipeline for phishing website detection. It automates the complete machine learning lifecycle, from data ingestion and preprocessing to model training, evaluation, experiment tracking, and deployment.
+This project presents a production-ready end-to-end MLOps pipeline for phishing website detection. It automates the complete machine learning lifecycle, from data ingestion and preprocessing to model training, evaluation, experiment tracking, and deployment.
 
 Built using FastAPI, Scikit-Learn, MongoDB, MLflow, and DagsHub, the system provides a scalable API that allows users to upload website feature datasets and obtain phishing detection predictions. The project follows industry-standard MLOps practices to ensure reproducibility, maintainability, and efficient model management.
 
