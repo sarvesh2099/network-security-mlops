@@ -19,6 +19,16 @@ The primary objective of this project is to demonstrate how machine learning mod
 
 ---
 
+## 🎯 Key Highlights
+
+- Built and deployed an end-to-end MLOps pipeline for phishing website detection.
+- Automated data ingestion, validation, transformation, model training, and prediction workflows.
+- Integrated MLflow and DagsHub for experiment tracking and model management.
+- Developed REST APIs using FastAPI for model training and batch prediction.
+- Deployed the application on Render with publicly accessible Swagger documentation.
+
+---
+
 ## 🌐 Live Demo
 
 ### API Documentation
@@ -244,9 +254,9 @@ python app.py
 
 ## 👨‍💻 Author
 
-### Sarvesh Ambavkar
+**Sarvesh Ambavkar**
 
-Aspiring Machine Learning Engineer and Full-Stack Developer with interests in Machine Learning, MLOps, Backend Development, Cloud Computing, and Scalable Software Systems.
+Machine Learning & Full-Stack Development Enthusiast
 
+Interested in Machine Learning, MLOps, Backend Development, Cloud Computing, and Scalable Software Systems.
 
-⭐ If you found this project useful, consider giving it a star.
