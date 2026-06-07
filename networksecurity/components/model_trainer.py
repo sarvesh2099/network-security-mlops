@@ -26,8 +26,8 @@ from sklearn.ensemble import (
 import mlflow
 from urllib.parse import urlparse
 
-import dagshub
-dagshub.init(repo_owner='sarvesh2099', repo_name='network-security-mlops', mlflow=True)
+# import dagshub
+# dagshub.init(repo_owner='sarvesh2099', repo_name='network-security-mlops', mlflow=True)
 
 
 # os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/krishnaik06/networksecurity.mlflow"
@@ -125,7 +125,7 @@ class ModelTrainer:
         classification_train_metric=get_classification_score(y_true=y_train,y_pred=y_train_pred)
         
         ## Track the experiements with mlflow
-        self.track_mlflow(best_model,classification_train_metric)
+        # self.track_mlflow(best_model,classification_train_metric)
 
 
         y_test_pred=best_model.predict(x_test)
