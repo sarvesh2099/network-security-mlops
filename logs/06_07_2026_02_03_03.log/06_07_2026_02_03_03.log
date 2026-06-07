@@ -1,0 +1,7 @@
+[ 2026-06-07 02:03:03,482 ] 164 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[ 2026-06-07 02:03:07,203 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-07 02:03:07,212 ] 107 dagshub - INFO - Accessing as sarvesh2099
+[ 2026-06-07 02:03:08,325 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/sarvesh2099/network-security-mlops "HTTP/1.1 200 OK"
+[ 2026-06-07 02:03:17,484 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-07 02:03:17,487 ] 107 dagshub - INFO - Initialized MLflow to track repo "sarvesh2099/network-security-mlops"
+[ 2026-06-07 02:03:17,488 ] 107 dagshub - INFO - Repository sarvesh2099/network-security-mlops initialized!

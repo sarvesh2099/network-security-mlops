@@ -1,0 +1,12 @@
+[ 2026-06-07 01:59:31,571 ] 164 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[ 2026-06-07 01:59:42,299 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-07 01:59:42,308 ] 107 dagshub - INFO - Accessing as sarvesh2099
+[ 2026-06-07 01:59:49,122 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/sarvesh2099/network-security-mlops "HTTP/1.1 200 OK"
+[ 2026-06-07 01:59:50,057 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-07 01:59:50,060 ] 107 dagshub - INFO - Initialized MLflow to track repo "sarvesh2099/network-security-mlops"
+[ 2026-06-07 01:59:50,061 ] 107 dagshub - INFO - Repository sarvesh2099/network-security-mlops initialized!
+[ 2026-06-07 01:59:50,298 ] 119 fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+

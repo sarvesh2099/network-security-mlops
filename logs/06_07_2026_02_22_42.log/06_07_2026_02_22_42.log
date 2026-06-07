@@ -1,0 +1,6 @@
+[ 2026-06-07 02:22:56,387 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-07 02:22:56,404 ] 107 dagshub - INFO - Accessing as sarvesh2099
+[ 2026-06-07 02:22:57,291 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/sarvesh2099/network-security-mlops "HTTP/1.1 200 OK"
+[ 2026-06-07 02:23:04,267 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-07 02:23:04,271 ] 107 dagshub - INFO - Initialized MLflow to track repo "sarvesh2099/network-security-mlops"
+[ 2026-06-07 02:23:04,272 ] 107 dagshub - INFO - Repository sarvesh2099/network-security-mlops initialized!
